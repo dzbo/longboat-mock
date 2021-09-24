@@ -1,6 +1,6 @@
-import NavbarTop from "./NavbarTop";
-import NavbarBottom from "./NavbarBottom";
-import "./Navbar.css";
+import NavbarTop from "./Top";
+import NavbarBottom from "./Bottom";
+import "../../styles/Navbar.css";
 
 function NavbarContainer() {
   return (
