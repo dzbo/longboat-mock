@@ -1,0 +1,98 @@
+.training-tab {
+  height: 54px;
+  background-color: #91d0ec;
+  display: flex;
+  align-items: flex-end;
+}
+
+.training-tab .nav-link {
+  color: #fff;
+  font-size: 14px;
+  padding: 14px 50px 14px 20px;
+  font-weight: 600;
+}
+
+.training-tab .nav-item {
+  position: relative;
+  z-index: 1;
+}
+
+.training-tab .nav-link.active::after {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: -2px;
+  left: 0;
+  z-index: -1;
+  border-radius: 12px 12px 0 0;
+  background: #fff;
+  content: "";
+  transform: perspective(5px) rotateX(0.93deg) translateZ(-1px);
+  transform-origin: 0 0;
+  backface-visibility: hidden;
+}
+
+.training-tab .nav-link.active {
+  color: #747474;
+  font-weight: 600;
+}
+
+.training-tab .nav-link.active .tab-icon {
+  color: #747474;
+}
+
+.training-tab .tab-icon {
+  color: #fff;
+  font-size: 16px;
+}
+
+.training-tab .tab-icon.icon-small {
+  font-size: 12px;
+  position: relative;
+  top: -2px;
+}
+
+.tab-header {
+  background-color: #fff;
+  height: 60px;
+  --bs-breadcrumb-divider: ">";
+  display: flex;
+  align-items: center;
+  border-bottom: 1px #d1d1d1 solid;
+}
+
+.tab-header .breadcrumb-item {
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  color: #747474;
+}
+
+.tab-header .breadcrumb-item.active {
+  color: #74bd05;
+}
+
+.tab-header .breadcrumb-item::before {
+  font-size: 12px;
+  position: relative;
+}
+
+.tab-progress {
+  width: 350px;
+  color: #1eaae8;
+  font-style: italic;
+  font-size: 14px;
+}
+
+.tab-progress .progress {
+  height: 23px;
+  border-radius: 15px;
+}
+
+.tab-progress .progress-bar {
+  width: 79%;
+  text-align: right;
+  background-color: #1eaae8;
+  border-radius: 15px;
+  padding-right: 5px;
+}
