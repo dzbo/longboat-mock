@@ -28,7 +28,7 @@ const options = {
 function TrainingTile(props) {
   return (
     <div
-      className={`tile col ${
+      className={`tile mb-4 col-xs-12 col-sm-6 col-md-4 col-lg-3 ${
         props.training.isPending ? "pending" : "completed"
       }`}
     >
