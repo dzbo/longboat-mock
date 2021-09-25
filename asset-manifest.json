@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/longboat-mock/static/css/main.7c8e22b6.chunk.css",
-    "main.js": "/longboat-mock/static/js/main.5c9cd953.chunk.js",
-    "main.js.map": "/longboat-mock/static/js/main.5c9cd953.chunk.js.map",
+    "main.css": "/longboat-mock/static/css/main.e1491d3c.chunk.css",
+    "main.js": "/longboat-mock/static/js/main.ea18f395.chunk.js",
+    "main.js.map": "/longboat-mock/static/js/main.ea18f395.chunk.js.map",
     "runtime-main.js": "/longboat-mock/static/js/runtime-main.7fe8f016.js",
     "runtime-main.js.map": "/longboat-mock/static/js/runtime-main.7fe8f016.js.map",
     "static/js/2.cf900c9b.chunk.js": "/longboat-mock/static/js/2.cf900c9b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.a50f3562.chunk.js": "/longboat-mock/static/js/3.a50f3562.chunk.js",
     "static/js/3.a50f3562.chunk.js.map": "/longboat-mock/static/js/3.a50f3562.chunk.js.map",
     "index.html": "/longboat-mock/index.html",
-    "static/css/main.7c8e22b6.chunk.css.map": "/longboat-mock/static/css/main.7c8e22b6.chunk.css.map",
+    "static/css/main.e1491d3c.chunk.css.map": "/longboat-mock/static/css/main.e1491d3c.chunk.css.map",
     "static/js/2.cf900c9b.chunk.js.LICENSE.txt": "/longboat-mock/static/js/2.cf900c9b.chunk.js.LICENSE.txt",
     "static/media/logo.png": "/longboat-mock/static/media/logo.f4fb56a0.png",
     "static/media/tile1.png": "/longboat-mock/static/media/tile1.b320f71f.png",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.7fe8f016.js",
     "static/js/2.cf900c9b.chunk.js",
-    "static/css/main.7c8e22b6.chunk.css",
-    "static/js/main.5c9cd953.chunk.js"
+    "static/css/main.e1491d3c.chunk.css",
+    "static/js/main.ea18f395.chunk.js"
   ]
 }
