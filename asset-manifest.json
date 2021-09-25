@@ -1,23 +1,27 @@
 {
   "files": {
-    "main.css": "/longboat-mock/static/css/main.0b35cabf.chunk.css",
-    "main.js": "/longboat-mock/static/js/main.dd145013.chunk.js",
-    "main.js.map": "/longboat-mock/static/js/main.dd145013.chunk.js.map",
-    "runtime-main.js": "/longboat-mock/static/js/runtime-main.38e2ff52.js",
-    "runtime-main.js.map": "/longboat-mock/static/js/runtime-main.38e2ff52.js.map",
-    "static/js/2.6e3a0856.chunk.js": "/longboat-mock/static/js/2.6e3a0856.chunk.js",
-    "static/js/2.6e3a0856.chunk.js.map": "/longboat-mock/static/js/2.6e3a0856.chunk.js.map",
-    "static/js/3.c7967c0e.chunk.js": "/longboat-mock/static/js/3.c7967c0e.chunk.js",
-    "static/js/3.c7967c0e.chunk.js.map": "/longboat-mock/static/js/3.c7967c0e.chunk.js.map",
+    "main.css": "/longboat-mock/static/css/main.7c8e22b6.chunk.css",
+    "main.js": "/longboat-mock/static/js/main.5c9cd953.chunk.js",
+    "main.js.map": "/longboat-mock/static/js/main.5c9cd953.chunk.js.map",
+    "runtime-main.js": "/longboat-mock/static/js/runtime-main.7fe8f016.js",
+    "runtime-main.js.map": "/longboat-mock/static/js/runtime-main.7fe8f016.js.map",
+    "static/js/2.cf900c9b.chunk.js": "/longboat-mock/static/js/2.cf900c9b.chunk.js",
+    "static/js/2.cf900c9b.chunk.js.map": "/longboat-mock/static/js/2.cf900c9b.chunk.js.map",
+    "static/js/3.a50f3562.chunk.js": "/longboat-mock/static/js/3.a50f3562.chunk.js",
+    "static/js/3.a50f3562.chunk.js.map": "/longboat-mock/static/js/3.a50f3562.chunk.js.map",
     "index.html": "/longboat-mock/index.html",
-    "static/css/main.0b35cabf.chunk.css.map": "/longboat-mock/static/css/main.0b35cabf.chunk.css.map",
-    "static/js/2.6e3a0856.chunk.js.LICENSE.txt": "/longboat-mock/static/js/2.6e3a0856.chunk.js.LICENSE.txt",
-    "static/media/logo.f4fb56a0.png": "/longboat-mock/static/media/logo.f4fb56a0.png"
+    "static/css/main.7c8e22b6.chunk.css.map": "/longboat-mock/static/css/main.7c8e22b6.chunk.css.map",
+    "static/js/2.cf900c9b.chunk.js.LICENSE.txt": "/longboat-mock/static/js/2.cf900c9b.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/longboat-mock/static/media/logo.f4fb56a0.png",
+    "static/media/tile1.png": "/longboat-mock/static/media/tile1.b320f71f.png",
+    "static/media/tile2.png": "/longboat-mock/static/media/tile2.16e6cb50.png",
+    "static/media/tile3.png": "/longboat-mock/static/media/tile3.66b58f07.png",
+    "static/media/tile4.png": "/longboat-mock/static/media/tile4.9e52e618.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.38e2ff52.js",
-    "static/js/2.6e3a0856.chunk.js",
-    "static/css/main.0b35cabf.chunk.css",
-    "static/js/main.dd145013.chunk.js"
+    "static/js/runtime-main.7fe8f016.js",
+    "static/js/2.cf900c9b.chunk.js",
+    "static/css/main.7c8e22b6.chunk.css",
+    "static/js/main.5c9cd953.chunk.js"
   ]
 }
