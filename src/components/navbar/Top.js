@@ -1,4 +1,4 @@
-import logo from "../../logo.png";
+import logo from "../../img/logo.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faQuestionCircle, faUsers } from "@fortawesome/free-solid-svg-icons";
 
@@ -40,16 +40,15 @@ function NavbarTop() {
             </li>
             <li className="nav-item nav-spacer ms-3"></li>
             <li className="nav-item dropdown">
-              <a
+              <span
                 className="nav-link dropdown-toggle"
-                href="#!"
                 id="navbarDropdownMenuLink"
                 role="button"
                 data-bs-toggle="dropdown"
                 aria-expanded="false"
               >
                 Bob Cole
-              </a>
+              </span>
               <ul
                 className="dropdown-menu"
                 aria-labelledby="navbarDropdownMenuLink"

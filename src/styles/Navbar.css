@@ -9,9 +9,10 @@
   padding: 0;
 }
 
-.navbar-light .navbar-brand {
+.navbar-top .navbar-brand {
   color: #0b496b;
   font-size: 24px;
+  font-style: italic;
 }
 
 .navbar-nav {
@@ -45,6 +46,11 @@
   height: 46px;
   align-items: center;
   display: flex;
+}
+
+.navbar-bottom .nav-link:hover {
+  color: #fff;
+  background-color: #22426a;
 }
 
 .navbar-bottom .nav-link.active {
