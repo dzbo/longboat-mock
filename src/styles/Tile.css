@@ -1,0 +1,111 @@
+.tile .card {
+  border: 0;
+}
+
+.tile .card-image {
+  height: 150px;
+  background-size: cover;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 20px;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+  cursor: pointer;
+}
+
+.tile .card-body {
+  font-size: 14px;
+  text-align: center;
+  font-weight: 600;
+  color: #5d6772;
+}
+
+.tile .card-title {
+  color: #1eaae8;
+  min-height: 45px;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  justify-content: center;
+}
+
+.tile .tile-time {
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+}
+
+.tile .tile-duration {
+  border-right: 1px #ede9ea solid;
+}
+
+.tile.pending .tile-date {
+  color: #bd2c45;
+}
+
+.tile.completed .apexcharts-radialbar-area {
+  stroke: #7db723;
+}
+
+.tile .btn {
+  font-size: 14px;
+  border-radius: 20px;
+  width: 100%;
+  background-color: #7db723;
+  border-color: #7db723;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.tile .btn:not(.disabled):hover {
+  background-color: #699b1f;
+  border-color: #699b1f;
+}
+
+.tile .btn.disabled {
+  background-color: #ebe7e4;
+  border-color: #ebe7e4;
+}
+
+.tile-mandatory {
+  background-color: #1eaae8;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 2px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+
+.tile-play {
+  height: 50px;
+  width: 50px;
+  border: 3px #fff solid;
+  color: #fff;
+  background: rgba(0, 0, 0, 0.262);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  transition: all 0.2s ease-in-out;
+}
+
+.tile .card-image:hover .tile-play {
+  transform: scale(1.1);
+}
+
+.tile-bakckdrop {
+  background-color: rgba(0, 0, 0, 0.139);
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
